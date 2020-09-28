@@ -1,0 +1,14 @@
+
+
+文本处理
+1. Tokenization
+把文本分割成单词，每个单词就是token.
+2. Build Dictionary
+
+3. one-hot Encoding
+
+4. Align Sequences
+
+word embedding
+
+logistic regression for binary classification
